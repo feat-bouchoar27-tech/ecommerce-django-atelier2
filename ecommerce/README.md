@@ -13,7 +13,7 @@ Gestion et récupération de données avec Django ORM.
 ![Admin](screenshots/admin.png)
 
 ### Page produits
-![Produits](screenshots/page_produits.png)
+![Produits](screenshots/page_produit.png)
 
 ### Page détail produit
 ![Detail](screenshots/page_detail.png)
